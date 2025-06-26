@@ -12,5 +12,7 @@ This repo is a implementation of MVC(Model-View-Controller) concept using php fr
 
 ## Screenshots
 
-![App Screenshot](https://github.com/LongIsHeree/MVC_CI4_Assistant/blob/179945a3f5c796e4264b970baf13c926ddce54fc/Assistan_1.png)
+![Create](https://github.com/LongIsHeree/MVC_CI4_Assistant/blob/179945a3f5c796e4264b970baf13c926ddce54fc/Assistan_1.png)
+![Update](https://github.com/LongIsHeree/MVC_CI4_Assistant/blob/179945a3f5c796e4264b970baf13c926ddce54fc/Assistant_2.png)
+![Delete](https://github.com/LongIsHeree/MVC_CI4_Assistant/blob/179945a3f5c796e4264b970baf13c926ddce54fc/Assistant_3.png)
 
